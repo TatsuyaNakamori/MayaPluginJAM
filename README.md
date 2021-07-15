@@ -1,2 +1,2 @@
-# MayaPluginJAM
-A repository of maya's plugins.
+# Tools Template
+Repository template for tools
